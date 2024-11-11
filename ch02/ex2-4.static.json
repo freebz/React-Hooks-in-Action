@@ -1,0 +1,26 @@
+// 리스트 2.4 예약 앱 데이터 구조
+
+{
+  "bookables": [ /* 예약 가능 자원의 배열 */ ],
+  "users": [ /* 사용자 객체의 배열 */ ],
+
+  "bookings": [],
+
+  "sessions": [
+    "Breakfast",
+    "Morning",
+    "Lunch",
+    "Afternoon",
+    "Evening"
+  ],
+
+  "days": [
+    "Sunday",
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday"
+  ]
+}
